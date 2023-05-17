@@ -3,7 +3,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+im+here;+Mintae; true&font=Redressed&size=35&)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+im+here;+Mintae;&font=Redressed&size=35&)](https://git.io/typing-svg)
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
