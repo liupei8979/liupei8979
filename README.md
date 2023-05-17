@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
 
-
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+im+here;+Mintae;&font=Redressed&size=35&)](https://git.io/typing-svg)
 
