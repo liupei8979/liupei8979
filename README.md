@@ -1,12 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
-
+<div align="center">
 🙋🏻‍♀️ Who I am is ...
 * 아주대학교 미디어학과 & 소프트웨어학과 학생
 * (주)메모리플랜트 인턴 (22.04~22.09)
 * 엘리스 SW 엔지니어 트랙 5기 23.05~ 진행 중
 * Product Management 쪽에도 관심이 많습니다.
+</div>
 
-
+<div align="center">
 
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages Studying ✨</p>
