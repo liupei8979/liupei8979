@@ -1,4 +1,6 @@
-
+<a href="https://discreet-decade-378.notion.site/c2d14efedcde41f7a7db78a04dcd6f7a?pvs=4" target="_blank">
+Notion portfoilo
+</a>
 
 
 🙋🏻‍♀️ Who I am is ...
