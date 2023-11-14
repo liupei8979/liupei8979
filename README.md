@@ -1,4 +1,4 @@
-<a href="https://mintae.notion.site/c2d14efedcde41f7a7db78a04dcd6f7a?pvs=4" target="_blank">
+<a href="http://mintae.info" target="_blank">
 Notion portfoilo
 </a>
 
