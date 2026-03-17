@@ -1,19 +1,19 @@
 ## Work Experience
 
-### <img src="https://avatars.githubusercontent.com/u/49175386?s=20&v=4" width="20" height="20" /> [Cosmostation (Stamper)](https://www.cosmostation.io/) - Frontend Engineer (Sep 2025 - Present)
+### <img src="https://avatars.githubusercontent.com/u/49175386?s=20&v=4" width="20" height="20" style="vertical-align: middle;" /> [Cosmostation (Stamper)](https://www.cosmostation.io/) - Frontend Engineer (Sep 2025 - Present)
 - Building and maintaining [Mintscan](https://www.mintscan.io/), a blockchain explorer for the Cosmos ecosystem
 - Led Svelte 5 migration for core pages (Wallet, Portfolio, Vote) and redesigned Modal architecture
 - Developed EVM chain extensibility architecture, reducing new chain onboarding complexity
 - Built Skip Protocol internal docs portal — Next.js 14 documentation site with API Playground, custom Swap UI, and 70+ page Korean translation
 - Renewed [Cosmostation homepage](https://www.cosmostation.io/) with design system, Figma token sync pipeline, and i18n (3 languages)
 
-### <img src="https://avatars.githubusercontent.com/u/88081487?s=20&v=4" width="20" height="20" /> [Bigglz](https://bigglz.com/) - Frontend Engineer (Nov 2024 - Aug 2025)
+### <img src="https://avatars.githubusercontent.com/u/88081487?s=20&v=4" width="20" height="20" style="vertical-align: middle;" /> [Bigglz](https://bigglz.com/) - Frontend Engineer (Nov 2024 - Aug 2025)
 - Developed modular NFC web applications with npm-packaged template system, cutting prototype time by 50%+
 - Built common React template and Monorepo structure managing 15+ projects with consistent patterns
 - Integrated Unity WebGL with React, resolved iOS 18.4+ Safari rendering issues through cross-team collaboration
 - Led jQuery → React/TypeScript/TailwindCSS/Zustand legacy migration and established CI/CD pipeline
 
-### <img src="https://avatars.githubusercontent.com/u/49175386?s=20&v=4" width="20" height="20" /> [Cosmostation (Stamper)](https://www.cosmostation.io/) - Frontend Intern (Jan 2024 - Aug 2024)
+### <img src="https://avatars.githubusercontent.com/u/49175386?s=20&v=4" width="20" height="20" style="vertical-align: middle;" /> [Cosmostation (Stamper)](https://www.cosmostation.io/) - Frontend Intern (Jan 2024 - Aug 2024)
 - Developed Neutron DAO pages (Vault, SubDAO, Proposal, Member) with CosmWasm smart contract data parsing
 - Redesigned Wallet UI (Send, IBC Send, Stake, Vote) and built reusable Chain/Token Selector components
 - Rebuilt Relayer page with IBC relay visualization and responsive design
