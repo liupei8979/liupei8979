@@ -21,9 +21,9 @@
 
 ## Activities
 
+- **Blockchain Valley (Korea University)** — Product Development Team Member (Mar 2026)
 - **Kakao x Goormthon Univ 3rd** — Grand Prize (1st Place) at Hackathon (Sep 2024)
 - **Yonsei Blockchain Association (BAY) 13th** — dApp Development Team (2024)
-- **Blockchain Valley (Korea University)** — Product Development Team Member (Mar 2026)
 
 ## Education
 
