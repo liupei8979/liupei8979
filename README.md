@@ -4,7 +4,7 @@
 - Building and maintaining [Mintscan](https://www.mintscan.io/), a blockchain explorer for the Cosmos ecosystem
 - Led Svelte 5 migration for core pages (Wallet, Portfolio, Vote) and redesigned Modal architecture
 - Developed EVM chain extensibility architecture, reducing new chain onboarding complexity
-- Built [Skip Protocol internal docs portal](https://github.com/liupei8979/docs-skip2-web) — Next.js 14 documentation site with API Playground, custom Swap UI, and 70+ page Korean translation
+- Built Skip Protocol internal docs portal — Next.js 14 documentation site with API Playground, custom Swap UI, and 70+ page Korean translation
 - Renewed [Cosmostation homepage](https://www.cosmostation.io/) with design system, Figma token sync pipeline, and i18n (3 languages)
 
 ### [Bigglz](https://bigglz.com/) - Frontend Engineer (Nov 2024 - Aug 2025)
