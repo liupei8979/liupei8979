@@ -1,7 +1,3 @@
-# Hi, I'm Mintae Kim (김민태) 👋
-
-Frontend developer experienced at building performant web applications using **Svelte**, **React**, **TypeScript**, **Next.js**, and **TailwindCSS**
-
 ## Work Experience
 
 ### [Cosmostation (Stamper)](https://www.cosmostation.io/) - Frontend Engineer (Sep 2025 - Present)
@@ -22,12 +18,6 @@ Frontend developer experienced at building performant web applications using **S
 - Redesigned Wallet UI (Send, IBC Send, Stake, Vote) and built reusable Chain/Token Selector components
 - Rebuilt Relayer page with IBC relay visualization and responsive design
 - Created internal monitoring system (Mintscan Manager) for real-time service status dashboard
-
-## Side Projects
-
-### [몇솔 (SolsLabs)](https://github.com/solslab) - Co-Founder (Jul 2024 - Present)
-- Developer job prep platform providing coding test info by company
-- Built admin backoffice with auth system, company/member/test management
 
 ## Activities
 
