@@ -1,11 +1,17 @@
 ## Work Experience
 
-### <img src="https://avatars.githubusercontent.com/u/49175386?s=20&v=4" width="20" height="20" align="center" /> [Cosmostation (Stamper)](https://www.cosmostation.io/) - Frontend Engineer (Sep 2025 - Present)
-- Building and maintaining [Mintscan](https://www.mintscan.io/), a blockchain explorer for the Cosmos ecosystem
-- Led Svelte 5 migration for core pages (Wallet, Portfolio, Vote) and redesigned Modal architecture
-- Developed EVM chain extensibility architecture, reducing new chain onboarding complexity
-- Built Skip Protocol internal docs portal — Next.js 14 documentation site with API Playground, custom Swap UI, and 70+ page Korean translation
-- Renewed [Cosmostation homepage](https://www.cosmostation.io/) with design system, Figma token sync pipeline, and i18n (3 languages)
+### <img src="https://avatars.githubusercontent.com/u/228843?s=20&v=4" width="20" height="20" align="center" /> [Cosmos (Interchain)](https://github.com/cosmos) - Software Engineer (Jun 2026 - Present)
+- Developing new features for Skip, the interchain swap/transfer protocol
+- Leading the skip-widget migration
+- Joined through Cosmostation's acquisition by Cosmos (Interchain)
+
+### <img src="https://avatars.githubusercontent.com/u/49175386?s=20&v=4" width="20" height="20" align="center" /> [Cosmostation (Stamper)](https://www.cosmostation.io/) - Frontend Engineer (Sep 2025 - Jun 2026)
+- Build and maintain Mintscan, the leading blockchain explorer for the Cosmos ecosystem
+- Led the Svelte 5 migration of core surfaces (Wallet, Portfolio, Vote) and redesigned the global modal architecture
+- Designed an EVM chain extensibility layer that reduced new-chain onboarding effort
+- Built the Skip Protocol internal docs portal (Next.js 14): API Playground, custom Swap UI, and 70+ pages of Korean translation
+- Rebuilt the Cosmostation homepage with a design system, Figma-to-token sync pipeline, and i18n (3 languages)
+
 
 ### <img src="https://avatars.githubusercontent.com/u/88081487?s=20&v=4" width="20" height="20" align="center" /> [Bigglz](https://bigglz.com/) - Frontend Engineer (Nov 2024 - Aug 2025)
 - Developed modular NFC web applications with npm-packaged template system, cutting prototype time by 50%+
