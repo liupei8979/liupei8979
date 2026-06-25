@@ -3,7 +3,6 @@
 ### <img src="https://avatars.githubusercontent.com/u/228843?s=20&v=4" width="20" height="20" align="center" /> [Cosmos (Interchain)](https://github.com/cosmos) - Software Engineer (Jun 2026 - Present)
 - Developing new features for Skip, the interchain swap/transfer protocol
 - Leading the skip-widget migration
-- Joined through Cosmostation's acquisition by Cosmos (Interchain)
 
 ### <img src="https://avatars.githubusercontent.com/u/49175386?s=20&v=4" width="20" height="20" align="center" /> [Cosmostation (Stamper)](https://www.cosmostation.io/) - Frontend Engineer (Sep 2025 - Jun 2026)
 - Build and maintain Mintscan, the leading blockchain explorer for the Cosmos ecosystem
